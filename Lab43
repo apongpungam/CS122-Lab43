@@ -1,1 +1,6 @@
 # Lab 4 - 8 Prime Numbers
+# pseudocode: To decide N is prime or not
+# for number 2 to N -1:
+#   if N is divisible by number:
+#      N is not prime;
+#      break:
