@@ -4,3 +4,9 @@
 #   if N is divisible by number:
 #      N is not prime;
 #      break:
+
+
+Exists x, x > 10 , x=(12,3,5,7,15)
+
+Not Exist x, x > 10 , x = (12, 3, 5, 7, 15)
+You can false in the middle of the set, but you can not false in the end of the set
